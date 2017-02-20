@@ -84,7 +84,7 @@
         </section>
         <h2>Now what would you like to do?</h2>
         <aside class="gotoBtn"><a href="doNewSurvey">Go Back to Home Page & Enter Another Survey</a></aside>
-        <figure id="imgTopLeft"><img src="res/flightattendant.png" alt="flight attendant 1"/></figure> 
+        <figure id="imgTopLeft"><img src="res/itclogo.png" alt="flight attendant 1"/></figure> 
         <figure id="imgTopRight"><img src="res/airplane.png" alt="Airplane"/></figure>
         <figure id="imgBtmCenter"><img src="res/flightattendants.png" alt="Flight Attendant Group"/></figure> 
     </body>

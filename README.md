@@ -6,15 +6,17 @@ After my second JSP class, I went back to this project, added java beans, added 
 
 Next to do:
 
-1. The first project I jimmy-rigged a standard html select box to act as an autocomplete component of the airline name input. It’s a bit problematic as the alignment with the input box changes with different browsers and there’s currently no keyboard control for the selections. I can adjust those things or just opt for a pre-made jquery autocomplete setup. Also I have the autocomplete using Ajax to connect to a servlet. Wondering if the Ajax is necessary or can just have the servlet do all the work. 
+1. Index the airlineName field in the airline_codes table to make searches faster for the autocomplete form field.
 
-2. Add more particular verification to both back-end and front-end (email names, flight numbers, no digits in person names, etc.). Clean up javascript coding. Finish creating jsp error page.
+2. The first project I jimmy-rigged a standard html select box to act as an autocomplete component of the airline name input. It’s a bit problematic as the alignment with the input box changes with different browsers and there’s currently no keyboard control for the selections. I can adjust those things or just opt for a pre-made jquery autocomplete setup. Also I have the autocomplete using Ajax to connect to a servlet. Wondering if the Ajax is necessary or can just have the servlet do all the work. 
 
-3. have beans pre-clean text inputs for intruder coding (forgot to do that). 
+3. Add more particular verification to both back-end and front-end (email names, flight numbers, no digits in person names, etc.). Clean up javascript verification coding. Finish creating jsp error page in case javas.
 
-3. Study up on EL and tags, apply if and where necessary. Look into applying Spring framework (once I learn it). 
+4. Have beans pre-clean text inputs for intruder coding (forgot to do that). 
 
-4. Design and develop a manager login and dashboard page so only manager can look at and modify database data. Move survey display page to manager view only.
+5. Study up on EL and tags, apply if and where necessary. Look into applying Spring framework (once I learn it). 
 
-5. This is a git of the netbeans version of the app, where it was originally made. have to make a maven version and then deploy to AWS or google cloud.
+6. Design and develop a manager login and dashboard page so only manager can look at and modify database data. Move survey display page to manager view only.
+
+7. This is a git of the netbeans version of the app, where it was originally made. Have to make a maven version and then deploy to AWS or google cloud.
 

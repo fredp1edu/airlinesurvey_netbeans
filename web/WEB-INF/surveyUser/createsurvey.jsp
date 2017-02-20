@@ -87,7 +87,7 @@
             </form>
            <span id='errorMsg'>Error Message Here</span>     
         </section>
-         <figure id="imgTopLeft"><img src="res/flightattendant.png" alt="flight attendant 1"/></figure> 
+         <figure id="imgTopLeft"><img src="res/itclogo.png" alt="flight attendant 1"/></figure> 
          <figure id="imgTopRight"><img src="res/airplane.png" alt="Airplane"/></figure>
          <figure id="imgBtmLeft"><img src="res/pilotmale1.png" alt="Pilot"/></figure> 
          <figure id="imgBtmRight"><img src="res/flightattendant2.png" alt="flight attendant 2"/></figure>  

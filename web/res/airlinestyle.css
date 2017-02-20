@@ -77,8 +77,8 @@ h2 {
     position: absolute
 }
 #imgTopLeft {
-    width: 18%;
-    top: 0;
+    width: 20%;
+    top: .5%;
     left: -2%;
     opacity: 0.8;
 }
